@@ -50,9 +50,9 @@ A estratégia divide os estudos em duas trilhas paralelas e complementares:
 
 | Data | 🌅 Manhã (06:30 - 08:00) | 🌙 Noite (19:00 - 21:00) | Meta | Status |
 |---|---|---|:---:|:---:|
-| **01/09** | **Atenção Plena:** Cap. 1 & 2 <br>*(O piloto automático)* | **Arte de Ler Mentes:** Intro & Cap. 1 <br>*(Conceito de leitura mental)* | 42p | [ ] |
-| **02/09** | **Atenção Plena:** Cap. 3 <br>*(Raízes da falta de atenção)* | **Arte de Ler Mentes:** Cap. 2 <br>*(Empatia e sintonia interpessoal)* | 31p | [ ] |
-| **03/09** | **Atenção Plena:** Cap. 4 <br>*(Custos da negligência)* | **Arte de Ler Mentes:** Cap. 3 - P1 <br>*(Rapport e espelhamento)* | 45p | [ ] |
+| **01/09** | **Atenção Plena:** Cap. 1 & 2 <br>*(O piloto automático)* | **Arte de Ler Mentes:** Intro & Cap. 1 <br>*(Conceito de leitura mental)* | 42p | [x] |
+| **02/09** | **Atenção Plena:** Cap. 3 <br>*(Raízes da falta de atenção)* | **Arte de Ler Mentes:** Cap. 2 <br>*(Empatia e sintonia interpessoal)* | 31p | [x] |
+| **03/09** | **Atenção Plena:** Cap. 4 <br>*(Custos da negligência)* | **Arte de Ler Mentes:** Cap. 3 - P1 <br>*(Rapport e espelhamento)* | 45p | [x] |
 | **04/09** | **Atenção Plena:** Cap. 5 <br>*(A verdadeira atenção plena)* | **Arte de Ler Mentes:** Cap. 3 - P2 <br>*(Adequação de ritmo e voz)* | 40p | [ ] |
 | **05/09** | **Atenção Plena:** Cap. 6 <br>*(Desfazendo estereótipos)* | **Arte de Ler Mentes:** Cap. 4 <br>*(Sistemas sensoriais)* | 49p | [ ] |
 | **06/09** | **Atenção Plena:** Cap. 7 <br>*(Criatividade e intuição)* | **Arte de Ler Mentes:** Cap. 5 - P1 <br>*(Expressões faciais básicas)* | 47p | [ ] |
